@@ -28,3 +28,12 @@ Y era mols semblant a un programa que vam veure a clase de buscar un número en 
 Exeercici2_b
 He útilitzat el SecondShort
 Perque té una part per canvair de lloc dos números dins l'array i em recodaba a la metodologuia del quick short. Un del s dos mètodes que vam veure en el video.
+
+Exercici3
+
+
+Exercici4
+a) 00 101111 110101
+b) 01 101010 111010
+c) 10 10010 1000011
+d) 01 
