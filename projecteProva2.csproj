@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MyLibreria2\MyLibreria2.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="activitiesUtils">
+      <HintPath>..\..\..\Downloads\activitiesUtils.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
